@@ -6,7 +6,7 @@ This assessment gives us a good understanding about the thought-process and capa
 
 If you are familiar with the FizzBuzz test then your in luck. This will be an advanced version of it.
 
-Write a microservice application that prints the numbers from 1 to *n*, where *n* is the input given. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+Write a microservice application that prints the numbers from 1 to *n*, where *n* is the input given. But for multiples of three print "Super" instead of the number and for the multiples of five print "Brave". For numbers which are multiples of both three and five print "SuperBrave".
 
 ## Basic guidelines
 
