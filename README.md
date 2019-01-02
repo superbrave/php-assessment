@@ -21,4 +21,4 @@ Write a microservice application that prints the numbers from 1 to *n*, where *n
 ## Additional info
 
 - You may fork this repository
-- You may provide a README.md for instructions
+- You may provide a README.md for instructions and a detailed explanation
